@@ -1,15 +1,18 @@
 body{
-    background-color:$sfondo;
+    background-color:cyan;
 }
 
-$brand_primary: grey;
+$brand_primary:red;
 
-$bottoni:yellow;
+$bottoni:green;
 
-$sfondo:cyan;
+$sfondo:blue;
 
 h1{
     color: $brand_primary;
+}
+h2{
+    color: $sfondo;
 }
 
 p{
