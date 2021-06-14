@@ -1,0 +1,21 @@
+body{
+    background-color:$sfondo;
+}
+
+$brand_primary: grey;
+
+$bottoni:yellow;
+
+$sfondo:cyan;
+
+h1{
+    color: $brand_primary;
+}
+
+p{
+    color: $brand_primary;
+}
+
+button{
+    color: $bottoni;
+}
